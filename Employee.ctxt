@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Employee
+comment1.params=name\ adress\ age\ Id
+comment1.target=Employee(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=void\ Show()
+comment4.params=discount\ base_salary
+comment4.target=int\ addSalary(int,\ int)
+comment5.params=
+comment5.target=int\ addSalary()
+comment6.params=base_salary\ discount
+comment6.target=java.lang.String\ addSalary(java.lang.String,\ int)
+comment7.params=discount\ base_salary
+comment7.target=java.lang.String\ addSalary(int,\ java.lang.String)
+comment8.params=discount\ base_salary
+comment8.target=double\ addSalary(double,\ int)
+numComments=9

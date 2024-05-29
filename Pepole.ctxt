@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Pepole
+comment1.params=
+comment1.target=Pepole()
+comment2.params=Name\ ID
+comment2.target=Pepole(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getID()
+comment5.params=Name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=ID
+comment6.target=void\ setID(int)
+comment7.params=
+comment7.target=void\ display()
+numComments=8

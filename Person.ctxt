@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=name\ adress\ age
+comment1.target=Person(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ display()
+comment3.params=
+comment3.target=void\ Show()
+comment3.text={\r\n\ \ \ \ \ \ \ \ System.out.println("Name\:\ "\ +\ this.name);\r\n\ \ \ \ \ \ \ \ System.out.println("Address\:\ "\ +\ this.address);\r\n\ \ \ \ \ \ \ \ System.out.println("Age\:\ "\ +\ this.age);\r\n}//End\ method\ display
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Digram
+comment1.params=side\ name
+comment1.target=Digram(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ Drow()
+numComments=3
